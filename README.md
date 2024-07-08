@@ -1,0 +1,2 @@
+Project Overview
+This project aims to revolutionize agriculture by creating a platform where farmers can upload images of issues for community-sourced solutions. Volunteers propose fixes using advanced tools for plant disease diagnosis, fostering transparency and sustainability in farming practices. The goal is to empower farmers, strengthen community bonds, and pioneer innovative agricultural approaches through public-funded, collaborative problem-solving.
